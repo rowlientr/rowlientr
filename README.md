@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://lanyard.cnrad.dev/api/378272432429203457?theme=dark&bg=0d1117&borderRadius=10px&hideBadges=true&hideActivity=true/>
+<img src="https://lanyard.cnrad.dev/api/378272432429203457?theme=dark&bg=0d1117&borderRadius=10px&hideBadges=true&hideActivity=true" />
 </p>
 
 
