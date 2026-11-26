@@ -1,10 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3b1d6e,100:6d28d9&height=160&section=header&text=rowlientr&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Script%20%26%20Plugin%20Developer&descAlignY=60&descSize=15" width="100%" alt="Header Wave" />
-</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1100&color=C084FC&center=true&vCenter=true&repeat=true&width=640&lines=Python+%7C+Lua+%7C+JavaScript+Developer;C%2B%2B+%26+C%23+Plugins+%7C+Automation+Scripts;Linux+%2C+Docker+%26+WordPress+Stack" alt="Animated Developer Role" />
-</p>
+# rowlientr
+**Script & Plugin Developer** · Python · Lua · JavaScript · C++ · C#
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=py,lua,js,cpp,cs,html,css,vscode,git,github,docker,wordpress,linux&perline=7&theme=dark" alt="Languages and Tools" />
+
+</div>
 
 <br/>
 
