@@ -1,15 +1,19 @@
 <div align="center">
 
 # rowlientr
-**Script & Plugin Developer** · Python · Lua · JavaScript · C++ · C#
+**Script & Plugin Developer** · Systems, Automation & Custom Tooling
 
 <br/>
 
 <img src="https://skillicons.dev/icons?i=py,lua,js,cpp,cs,html,css,vscode,git,github,docker,wordpress,linux&perline=7&theme=dark" alt="Languages and Tools" />
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=rowlientr&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS&base=235147" alt="Profile Views" />
+
 </div>
 
-<br/>
+---
 
 <p align="center">
   <a href="https://discord.com/users/378272432429203457">
