@@ -5,14 +5,16 @@
 
 <br/>
 
-<a href="https://discord.com/users/378272432429203457">
+<a href="https://github.com/rowlientr">
   <img src="https://img.shields.io/badge/GitHub-rowlientr-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=rowlientr&color=blueviolet&style=for-the-badge&label=Profile+Views&base=235147" alt="Profile Views" />
+<a href="https://discord.com/users/378272432429203457">
+  <img src="https://komarev.com/ghpvc/?username=rowlientr&color=5865F2&style=for-the-badge&label=PROFILE+VIEWS&base=235147" alt="Profile Views" />
+</a>
 
 <br/><br/>
 
-**[Discord Profile](https://discord.com/users/378272432429203457)** · **[GitHub](https://github.com/rowlientr)**
+**[Discord Profile](https://discord.com/users/378272432429203457)** · **[Repositories](https://github.com/rowlientr?tab=repositories)**
 
 </div>
 
@@ -20,7 +22,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/378272432429203457">
-    <img src="https://lanyard.cnrad.dev/api/378272432429203457?theme=dark&bg=0d1117&borderRadius=10px&hideBadges=true&hideActivity=false" alt="Discord Presence" />
+    <img src="https://lanyard.cnrad.dev/api/378272432429203457?theme=dark&bg=161b22&borderRadius=12px&borderColor=5865F2&showDisplayName=true&idleMessage=Writing%20Scripts%20%26%20Plugins..." alt="Discord Presence" />
   </a>
 </p>
 
