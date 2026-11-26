@@ -6,13 +6,13 @@
 <br/>
 
 <a href="https://discord.com/users/378272432429203457">
-  <img src="https://img.shields.io/badge/Discord-rowlientr-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-</a>
-<a href="https://github.com/rowlientr">
   <img src="https://img.shields.io/badge/GitHub-rowlientr-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<img src="https://img.shields.io/badge/Focus-Scripts%20%26%20Plugins-238636?style=for-the-badge" alt="Focus" />
 <img src="https://komarev.com/ghpvc/?username=rowlientr&color=blueviolet&style=for-the-badge&label=Profile+Views&base=235147" alt="Profile Views" />
+
+<br/><br/>
+
+**[Discord Profile](https://discord.com/users/378272432429203457)** · **[GitHub](https://github.com/rowlientr)**
 
 </div>
 
