@@ -3,26 +3,13 @@
 # rowlientr
 **Script & Plugin Developer** · Systems, Automation & Tooling
 
-<br/>
-
-<a href="https://github.com/rowlientr">
-  <img src="https://img.shields.io/badge/GitHub-rowlientr-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://discord.com/users/378272432429203457">
-  <img src="https://komarev.com/ghpvc/?username=rowlientr&color=5865F2&style=for-the-badge&label=PROFILE+VIEWS&base=235147" alt="Profile Views" />
-</a>
-
-<br/><br/>
-
-**[Discord Profile](https://discord.com/users/378272432429203457)** · **[Repositories](https://github.com/rowlientr?tab=repositories)**
-
 </div>
 
 <br/>
 
 <p align="center">
   <a href="https://discord.com/users/378272432429203457">
-    <img src="https://lanyard.cnrad.dev/api/378272432429203457?theme=dark&bg=161b22&borderRadius=12px&borderColor=5865F2&showDisplayName=true&idleMessage=Writing%20Scripts%20%26%20Plugins..." alt="Discord Presence" />
+    <img src="https://lanyard.cnrad.dev/api/378272432429203457?theme=dark&bg=0d1117&borderRadius=12px&hideBadges=true&showDisplayName=true&idleMessage=%C5%9Eu%20anda%20bu%20kullan%C4%B1c%C4%B1%20aktivite%20yapm%C4%B1yor" alt="Discord Presence" />
   </a>
 </p>
 
