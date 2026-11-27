@@ -6,9 +6,11 @@
 
 <br/><br/>
 
-<a href="https://discord.com/users/378272432429203457">
-  <img src="https://lanyard.cnrad.dev/api/378272432429203457?theme=dark&bg=0d1117&borderRadius=16px&hideBadges=true&showDisplayName=true&idleMessage=%C5%9Eu%20anda%20bu%20kullan%C4%B1c%C4%B1%20aktivite%20yapm%C4%B1yor" style="border: 1px solid #30363d; border-radius: 16px;" alt="Discord Status" />
-</a>
+<div>
+  <a href="https://discord.com/users/378272432429203457">
+    <img src="https://lanyard.cnrad.dev/api/378272432429203457?theme=dark&bg=161b22&borderRadius=16px&hideBadges=true&showDisplayName=true&idleMessage=%C5%9Eu%20anda%20bu%20kullan%C4%B1c%C4%B1%20aktivite%20yapm%C4%B1yor" alt="Discord Status" />
+  </a>
+</div>
 
 <br/><br/>
 
