@@ -1,8 +1,14 @@
 <div align="center">
 
-# rowlientr
+# Rowlien
 
-<img src="https://komarev.com/ghpvc/?username=rowlientr&color=2f81f7&style=for-the-badge&label=PROFILE+VIEWS&base=1258" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=rowlientr&color=8957e5&style=for-the-badge&label=PROFILE+VIEWS&base=1258" alt="Profile Views" />
+
+<br/>
+
+<a href="https://discord.com/users/378272432429203457">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
 
 <br/><br/>
 
