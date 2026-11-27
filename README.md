@@ -2,7 +2,7 @@
 
 # rowlientr
 
-<img src="https://komarev.com/ghpvc/?username=rowlientr&color=2f81f7&style=for-the-badge&label=PROFILE+VIEWS&base=235147" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=rowlientr&color=2f81f7&style=for-the-badge&label=PROFILE+VIEWS&base=1258" alt="Profile Views" />
 
 <br/><br/>
 
@@ -16,21 +16,7 @@
 
 ## About Me
 
-Developing scripts, custom plugins, and automation workflows across **Python**, **Lua**, **JavaScript**, **C++**, and **C#** with a focus on clean architecture and reliable execution.
-
-Working daily with **VS Code**, **Git**, **GitHub**, **Docker**, **WordPress**, and **Linux** to ship practical tools, modular extensions, and maintainable systems.
-
-</div>
-
----
-
-<div align="center">
-
-## Discord Presence
-
-<a href="https://discord.com/users/378272432429203457">
-  <img src="https://lanyard.cnrad.dev/api/378272432429203457?theme=dark&bg=0d1117&borderRadius=12px&hideBadges=true&showDisplayName=true&idleMessage=%C5%9Eu%20anda%20bu%20kullan%C4%B1c%C4%B1%20aktivite%20yapm%C4%B1yor" alt="Discord Presence" />
-</a>
+Random notes, experiments, and quick builds in progress.
 
 </div>
 
@@ -45,17 +31,11 @@ Working daily with **VS Code**, **Git**, **GitHub**, **Docker**, **WordPress**, 
 <a href="https://www.python.org/">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </a>
-<a href="https://www.lua.org/">
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </a>
-<a href="https://isocpp.org/">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-</a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+<a href="https://www.lua.org/">
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
 </a>
 
 ### Web & Markup
@@ -80,12 +60,6 @@ Working daily with **VS Code**, **Git**, **GitHub**, **Docker**, **WordPress**, 
 </a>
 <a href="https://github.com/">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.docker.com/">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</a>
-<a href="https://www.kernel.org/">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </a>
 
 </div>
