@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-*Script & Plugin Developer · Automation · Custom Tooling · Systems*
+**Script & Plugin Developer · Automation · Custom Tooling · Systems**
 
 </div>
 
@@ -16,9 +16,9 @@
 
 ## About Me
 
-Developer working with **Python**, **Lua**, **JavaScript**, **C++**, and **C#**, focused on practical scripts, plugins, and automation tools with clean and maintainable structure.
+Developing scripts, custom plugins, and automation workflows across **Python**, **Lua**, **JavaScript**, **C++**, and **C#** with a focus on clean architecture and reliable execution.
 
-Experienced with **VS Code**, **Git**, **GitHub**, **Docker**, **WordPress**, and **Linux** environments to build reliable and modular workflows.
+Working daily with **VS Code**, **Git**, **GitHub**, **Docker**, **WordPress**, and **Linux** to ship practical tools, modular extensions, and maintainable systems.
 
 </div>
 
@@ -42,25 +42,51 @@ Experienced with **VS Code**, **Git**, **GitHub**, **Docker**, **WordPress**, an
 
 ### Languages
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</a>
+<a href="https://www.lua.org/">
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</a>
+<a href="https://isocpp.org/">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+</a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+</a>
 
 ### Web & Markup
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</a>
+<a href="https://wordpress.org/">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+</a>
 
 ### Tools & Platforms
 
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<a href="https://code.visualstudio.com/">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</a>
+<a href="https://git-scm.com/">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</a>
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.docker.com/">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</a>
+<a href="https://www.kernel.org/">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</a>
 
 </div>
 
@@ -78,50 +104,3 @@ Experienced with **VS Code**, **Git**, **GitHub**, **Docker**, **WordPress**, an
 <img src="https://streak-stats.demolab.com/?user=rowlientr&theme=dark&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
 
 </div>
-
----
-
-````python
-from dataclasses import dataclass, field
-
-
-@dataclass(frozen=True)
-class DeveloperProfile:
-    handle: str = "rowlientr"
-    role: str = "Script & Plugin Specialist"
-    spoken_languages: tuple[str, ...] = ("Turkish",)
-    programming_languages: tuple[str, ...] = (
-        "Python",
-        "JavaScript",
-        "C++",
-        "C#",
-        "Lua",
-        "HTML5",
-        "CSS3",
-    )
-    stack: tuple[str, ...] = (
-        "VS Code",
-        "Git",
-        "GitHub",
-        "Docker",
-        "WordPress",
-        "Linux",
-    )
-    focus_areas: list[str] = field(
-        default_factory=lambda: [
-            "Custom plugins & extensions",
-            "Automation scripts & tooling",
-            "Clean modular architecture",
-        ]
-    )
-    open_to_collaboration: bool = True
-
-    def summary(self) -> str:
-        langs = ", ".join(self.programming_languages)
-        tools = ", ".join(self.stack)
-        return f"{self.handle} [{self.role}] | Stack: {langs} | Env: {tools}"
-
-
-profile = DeveloperProfile()
-if __name__ == "__main__":
-    print(profile.summary())
