@@ -1,3 +1,5 @@
+for scripts, plugins & custom tooling, reach out on discord or check my repos.
+
 <div align="center">
 
 # rowlientr
@@ -13,9 +15,9 @@
 
 </div>
 
----
+<br/>
 
-### Discord Presence
+### discord activity
 
 <p align="center">
   <a href="https://discord.com/users/378272432429203457">
@@ -23,10 +25,49 @@
   </a>
 </p>
 
-### Current Focus & Notes
+### developer profile
 
-```text
-> status     : active / building scripts, plugins & automation tools
-> languages  : Python, Lua, JavaScript, C++, C#, HTML5, CSS3
-> environment: VS Code, Git, GitHub, Docker, WordPress, Linux
-> approach   : clean structure, practical tooling, modular code
+````python
+from dataclasses import dataclass, field
+
+
+@dataclass(frozen=True)
+class DeveloperProfile:
+    handle: str = "rowlientr"
+    role: str = "Script & Plugin Specialist"
+    spoken_languages: tuple[str, ...] = ("Turkish",)
+    programming_languages: tuple[str, ...] = (
+        "Python",
+        "JavaScript",
+        "C++",
+        "C#",
+        "Lua",
+        "HTML5",
+        "CSS3",
+    )
+    stack: tuple[str, ...] = (
+        "VS Code",
+        "Git",
+        "GitHub",
+        "Docker",
+        "WordPress",
+        "Linux",
+    )
+    focus_areas: list[str] = field(
+        default_factory=lambda: [
+            "Custom plugins & extensions",
+            "Automation scripts & tooling",
+            "Clean modular architecture",
+        ]
+    )
+    open_to_collaboration: bool = True
+
+    def summary(self) -> str:
+        langs = ", ".join(self.programming_languages)
+        tools = ", ".join(self.stack)
+        return f"{self.handle} [{self.role}] | Stack: {langs} | Env: {tools}"
+
+
+profile = DeveloperProfile()
+if __name__ == "__main__":
+    print(profile.summary())
