@@ -89,18 +89,3 @@ Working daily with **VS Code**, **Git**, **GitHub**, **Docker**, **WordPress**, 
 </a>
 
 </div>
-
----
-
-<div align="center">
-
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=rowlientr&show_icons=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&ring_color=58a6ff&text_color=e6edf3&border_color=30363d&hide_border=false" height="175" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rowlientr&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&border_color=30363d&hide_border=false" height="175" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=rowlientr&theme=dark&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
-
-</div>
